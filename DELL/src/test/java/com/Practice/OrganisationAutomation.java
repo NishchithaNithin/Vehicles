@@ -11,6 +11,8 @@ public class OrganisationAutomation {
 		Reporter.log("vehicle");
 	       Reporter.log("car");
 	       Reporter.log("train");
+	       Reporter.log("cycle");
+	       
 		
 	}
 	
